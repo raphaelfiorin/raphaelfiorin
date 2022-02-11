@@ -1,16 +1,26 @@
-### Hi there 👋
+```
+from raphael_fiorin import *
 
-<!--
-**raphaelfiorin/raphaelfiorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+def aboutme ():
+    print("""
 
-Here are some ideas to get you started:
+🏢: (school)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Udemy: 'https://www.udemy.com.br/'
+            
+💻: (tools and languages) 
+
+  VisualStudioCode: https://code.visualstudio.com/,
+  PyCharm: https://www.jetbrains.com/pt-br/pycharm/,
+  Python: https://www.python.org/,
+  Git: https://git-scm.com/
+            
+🛠️: (projects) 
+
+  Phyrewall: https://github.com/raphaelfiorin/Phyrewall
+  Fliperhacker: https://github.com/InsanitySecLab/Fliperhacker
+  
+""")
+
+aboutme()
+```
